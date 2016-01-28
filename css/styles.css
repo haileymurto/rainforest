@@ -1,0 +1,22 @@
+
+body{
+  background-image: url(../img/repeatleaves.jpg);
+}
+.jumbotron{
+  background-image: url(../img/rainforest.jpg);
+  color: white;
+  height: 400px;
+}
+
+h1{
+  text-shadow: #333 0.05em 0.05em 0.1em;
+  padding-left: 50px;
+}
+
+.textbox{
+  background-color: white;
+  padding: 15px;
+  border-radius: 15px;
+  opacity: 0.8;
+  font-size: 18px;
+}
